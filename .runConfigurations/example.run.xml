@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="example" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="idea_dotenv" />
+    <working_directory value="$PROJECT_DIR$" />
+    <parameters value="./.runConfigurations" />
+    <envs>
+      <env name="sample_env" value="123" />
+      <env name="sample_env_2" value="sample_value" />
+    </envs>
+    <kind value="FILE" />
+    <package value="github.com/GeekchanskiY/idea_dotenv" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/main.go" />
+    <method v="2" />
+  </configuration>
+</component>
